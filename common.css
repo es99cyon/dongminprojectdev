@@ -1,0 +1,49 @@
+/***************************READ ME*******************************
+*                                                               *
+*        현재 작성된 것은 무의미! 추후 공통 css로 사용 할 예정      *
+*                                                               *
+******************************************************************/
+
+
+
+
+
+
+/*****************************************************************
+*                BootStrap Native Class Override                 *
+******************************************************************/
+.submit {
+    margin-left:50;
+}
+  
+.form-horizontal .checkbox, .form-horizontal .checkbox-inline, .form-horizontal .radio, .form-horizontal .radio-inline {
+    margin-left: 30%;
+}
+  
+.btn {
+    margin-left: -120%;
+    padding: 15%;
+    margin-top: 35%;
+}
+  
+.headline {
+    margin: .67em 0;
+    font-size: 2em;
+    text-align: center;
+}
+  
+.jumbotron {
+    padding-bottom: 0px;
+}
+  
+.board {  
+    margin-top: 4%;
+}
+
+.btn-group {
+    margin-left: 93%;
+}
+  
+.btn-boardsubmit {
+    margin-left: 37%;
+}
